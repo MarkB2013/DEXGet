@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DEXGet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DexFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DEX\Archive\</Value>
+    </Setting>
+    <Setting Name="ExcelFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Excel Files\Input\input.xml</Value>
+    </Setting>
+    <Setting Name="MachineDatabasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DEX\Machine Database\</Value>
+    </Setting>
+    <Setting Name="DexFileTray" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Luci Files\DEX File Tray\</Value>
+    </Setting>
+    <Setting Name="SFTP_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter SFTP server IP here</Value>
+    </Setting>
+    <Setting Name="SFTP_Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter SFTP account username here</Value>
+    </Setting>
+    <Setting Name="SFTP_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter SFTP account password here</Value>
+    </Setting>
+    <Setting Name="SFTP_Path_to_Nayax_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter SFTP server directory of text files</Value>
+    </Setting>
+    <Setting Name="SFTP_Path_to_CPI_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter SFTP server directory of ZIP files containing text files</Value>
+    </Setting>
+    <Setting Name="SFTP_PortNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="SFTP_SSHKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter SFTP account SSH key here</Value>
+    </Setting>
+    <Setting Name="TempDexFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DEX\Temp\</Value>
+    </Setting>
+    <Setting Name="MachineArchive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DEX\Machine Archive\</Value>
+    </Setting>
+    <Setting Name="ZipFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DEX\ZIP Files\</Value>
+    </Setting>
+    <Setting Name="TempZipFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DEX\ZIP Files\Temp\</Value>
+    </Setting>
+    <Setting Name="WinSCP_Session_Logs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Error Logs\DEXGet Logs\WinSCP Session Logs\</Value>
+    </Setting>
+    <Setting Name="MasterErrorLogFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Error Logs\DEXGet Logs\Master Log\</Value>
+    </Setting>
+    <Setting Name="Crash_Logs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Error Logs\DEXGet Logs\</Value>
+    </Setting>
+    <Setting Name="Lucifer_2017_Database_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Insert workbench folder directory here(Master folder for all files. Should be an empty folder)</Value>
+    </Setting>
+    <Setting Name="Session_Logs_Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
